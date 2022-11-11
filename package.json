@@ -15,5 +15,8 @@
   "homepage": "https://github.com/giocalitri/ionic-shell#readme",
   "dependencies": {
     "@ionic/cli": "latest"
+  },
+  "bin": {
+    "ionic": "./bin/ionic.js"
   }
 }
