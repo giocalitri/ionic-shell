@@ -1,0 +1,18 @@
+{
+  "name": "@giodimiliaionic/shell",
+  "version": "1.0.0",
+  "description": "Shell for @ionic/cli package.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giocalitri/ionic-shell.git"
+  },
+  "keywords": [],
+  "author": "The ionic team",
+  "bugs": {
+    "url": "https://github.com/giocalitri/ionic-shell/issues"
+  },
+  "homepage": "https://github.com/giocalitri/ionic-shell#readme",
+  "dependencies": {
+    "@ionic/cli": "latest"
+  }
+}
